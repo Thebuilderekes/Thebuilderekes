@@ -7,6 +7,6 @@
 * 🧑🏻‍💻Content creation on social media
 * 📷Photography
 
-### I'm looking forward to collaborating wtih with you on your projects.  
+### I'm looking forward to collaborating with you on your projects.  
 
 
