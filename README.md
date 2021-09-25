@@ -5,6 +5,8 @@
 
 * 🎧 Listening to podcasts
 * 🧑🏻‍💻Content creation on social media
-* Photography
+* 📷Photography
+
+### I'm looking forward to collaborating wtih with you on your projects.  
 
 
