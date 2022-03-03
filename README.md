@@ -3,8 +3,8 @@
 
 ### WHAT I DO WHEN I'M NOT CODING
 
+* 🧑🏻‍💻Content creationon [Twitter](https://twitter.com/iamthebuilder__) 
 * 🎧 Listening to podcasts
-* 🧑🏻‍💻Content creation on social media
 * 📷Photography
 
 ### I'm looking forward to collaborating with you on your projects.  
