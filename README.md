@@ -1,5 +1,5 @@
 # Hi, I'm Ekeopre Beredugo
-I'm a Frontend web developer who is passionate about creating high quality accessible websites. I enjoy sharing my perspectives  on [Twitter](https://twitter.com/iamthebuilder__) about my journey into web development and also productivity tips for anyone learning to code
+I'm a Frontend web developer who is passionate about creating high quality accessible websites. I enjoy sharing my thoughts perspective on [Twitter](https://twitter.com/iamthebuilder__) about web development and also productivity tips for anyone learning to code. 
 
 ### WHAT I DO WHEN I'M NOT CODING
 
