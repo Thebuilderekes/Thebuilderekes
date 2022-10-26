@@ -3,6 +3,7 @@ I'm a Frontend web developer who is passionate about creating high quality acces
 
 ### WHAT I'M CURRENTLY LEARNING
 * React
+* Astro
 * Expressjs
 * MongoDB
 
