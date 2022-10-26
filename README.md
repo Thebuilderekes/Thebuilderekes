@@ -15,6 +15,6 @@ I'm a Frontend web developer who is passionate about creating high quality acces
 
 ### I'm looking forward to collaborating with you on your projects.  
 
-I'm currently focused on CSS, JavaScript and Astro based projects and open to conversations about them. 
+I'm currently focused on CSS, JavaScript, React and Astro based projects and I'm open to conversations about them. 
 
 
