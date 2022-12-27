@@ -19,8 +19,7 @@ I'm a Frontend web developer who is passionate about creating high quality acces
 * React
 * JavaScript
 * Astro
-* Blockchain 
-* JavaScript
+* Blockchain
 
 ### WHAT I DO WHEN I'M NOT CODING
 
