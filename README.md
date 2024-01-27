@@ -32,9 +32,9 @@ I'm a Frontend web developer who is passionate about creating high quality acces
 
 ### WHAT I DO WHEN I'M NOT CODING
 
-* 🧑🏻‍💻Content creation on [Twitter](https://twitter.com/iamthebuilder__) 
+* 🧑🏻‍💻 Content creation on [Twitter](https://twitter.com/iamthebuilder__) 
 * 🎧 Listening to podcasts
-* 📷Photography
+* 📷 Photography
 
 ### I'm looking forward to collaborating with you on your projects.  
 
