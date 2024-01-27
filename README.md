@@ -1,5 +1,5 @@
 # Hi, welcome to my dashboard 
-I'm a Frontend web developer who is passionate about creating high quality accessible websites for personal brands and businesses. I enjoy sharing content about productivity and web development on [Twitter](https://twitter.com/iamthebuilder__) and my thoughts on learning to code. I'm also a huge fan of developer communities and I enjoy providing support to community members. I'm curently building my portfolio [here](https://ekeopre.vercel.app)
+I'm a Frontend web developer who is passionate about creating high quality accessible websites for personal brands and businesses. I enjoy sharing content about productivity and web development on [Twitter](https://twitter.com/iamthebuilder__) and my thoughts on learning to code. I'm also a huge fan of developer communities and I enjoy providing support to community members. I'm curently building my portfolio here
 
 ### Skills
 
