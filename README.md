@@ -19,6 +19,8 @@ I'm a Frontend web developer who is passionate about creating high quality acces
 
 
 ### WHAT I'M CURRENTLY INTERESTED IN
+* PHP
+* Laravel
 * React
 * JavaScript
 * Astro
