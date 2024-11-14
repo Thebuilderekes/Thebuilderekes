@@ -24,7 +24,7 @@ I'm a Frontend web developer who is passionate about creating high quality acces
 * JavaScript
 * Astro
 * PHP
-* Symphony
+* SymfonyPHP
 * Linux
 
 
