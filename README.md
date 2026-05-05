@@ -25,12 +25,12 @@ I'm a Full-stack web developer who is passionate about creating high quality acc
 
 ### WHAT I DO WHEN I'M NOT CODING
 
-* 🧑🏻‍💻 Content creation on [Twitter](https://twitter.com/iamthebuilder__) 
-* 🎧 Listening to podcasts
-* 📷 Photography
+* 🧑🏻‍💻 Content creation on [Twitter](https://twitter.com/iamthebuilder__)
+*  📷 Photography
+* 🎧 Listening to podcasts and watching movies
+
 
 ### I'm looking forward to collaborating with you on your projects.  
 
-I'm currently focused on JavaScript, React and Astro based projects and I'm open to holding conversations about them. 
-
+I'm currently focused on JavaScript, React and Django projects and I'm open to conversations about them.
 
