@@ -1,5 +1,5 @@
 # Hi, welcome to my dashboard 
-I'm a Full-stack web developer who is passionate about creating high quality accessible websites for personal brands and businesses. I enjoy sharing content about productivity and web development on [Twitter](https://twitter.com/iamthebuilder__) and my thoughts on learning to code. I'm also a huge fan Linux, Vim and developer communities in general and I enjoy providing support to community members. I'm curently building my portfolio here
+I'm a Full-stack web developer who is passionate about creating high quality accessible websites for personal brands and businesses. I enjoy sharing content about productivity and web development on [X](https://twitter.com/iamthebuilder__) and my thoughts on learning to code. I'm also a huge fan Linux, Vim and developer communities in general and I enjoy providing support to community members. I'm curently building my portfolio here
 
 ### Skills
 
@@ -44,7 +44,7 @@ I'm a Full-stack web developer who is passionate about creating high quality acc
 
 ### WHAT I DO WHEN I'M NOT CODING
 
-* 🧑🏻‍💻 Content creation on [Twitter](https://twitter.com/iamthebuilder__)
+* 🧑🏻‍💻 Blogging on [x](https://twitter.com/iamthebuilder__)
 *  📷 Photography
 * 🎧 Listening to podcasts and watching movies
 
